@@ -144,20 +144,18 @@
 
 
 
-<h2>🔝 Top Contributed Repo</h2>
+<h2>🏆 GitHub Achievements & Trophies</h2>
 
 <p align="center">
-  <a href="https://github.com/fluxaro">
-    <img src="https://github-contributor-stats.vercel.app/api?username=fluxaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=fluxaro&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
-<h2>🏆 GitHub Trophies</h2>
+<br>
+
+<h2>� Most Used Languages</h2>
 
 <p align="center">
-  <a href="https://github.com/fluxaro">
-    <img src="https://github-profile-trophy.vercel.app/?username=fluxaro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluxaro&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd&langs_count=10" alt="Most Used Languages" />
 </p>
 
 <h2>📈 GitHub Activity Graph</h2>

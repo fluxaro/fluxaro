@@ -88,6 +88,7 @@
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </p>
 
   <h3>🖥️ Backend & Tools</h3>
@@ -143,57 +144,35 @@
 
 
 
-<h2></h2>
+<h2>🔝 Top Contributed Repo</h2>
 
-<details>
-  <summary><h2>🔝 Top Contributed Repo</h2></summary>
-
-  <br>
-  
 <p align="center">
   <a href="https://github.com/fluxaro">
     <img src="https://github-contributor-stats.vercel.app/api?username=fluxaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Top Repo" />
   </a>
 </p>
-</details>
 
-<h2></h2>
+<h2>🏆 GitHub Trophies</h2>
 
-<details open>
-  <summary><h2>🏆 GitHub Trophies</h2></summary>
-  
-  <br>
-  
 <p align="center">
   <a href="https://github.com/fluxaro">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=fluxaro&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fluxaro&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
   </a>
 </p>
-</details>
 
-<h2></h2>
+<h2>📈 GitHub Activity Graph</h2>
 
-<details open>
-  <summary><h2>📈 GitHub Activity Graph</h2></summary>
+<div align="center">
+  <a href="https://github.com/fluxaro">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=fluxaro&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</div>
 
-  <!-- Activity Graph --> 
-  <div align="center">
-    <a href="https://github.com/fluxaro">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=fluxaro&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
-        alt="GitHub Activity Graph"
-      />
-    </a>
-  </div>
-</details>
+<h2>🟡 Pacman Contribution Graph</h2>
 
-<h2></h2>
-
-<details open>
-  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
-
-  <br>
-    
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fluxaro/fluxaro/output/pacman-contribution-graph-dark.svg" />
@@ -203,7 +182,6 @@
   <br/>
   <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
-</details>
 
 <br>
 
@@ -245,13 +223,13 @@ $\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve t
 <br>
 
 <p align="center">
-  <a href="mailto:loko.israel.tomisin@example.com"><img src="https://img.shields.io/badge/Gmail-bf91f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:israelloko65@gmail.com"><img src="https://img.shields.io/badge/Gmail-bf91f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/loko-israel-tomisin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/israelloko65"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.tiktok.com/@technocrat911"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://www.instagram.com/cyber_xoder/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/fluxaro"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://fluxaro.github.io"><img src="https://img.shields.io/badge/Portfolio-34a89d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://loko-portfilio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34a89d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">

@@ -148,7 +148,7 @@
 
 <p align="center">
   <a href="https://github.com/fluxaro">
-    <img src="https://github-contributor-stats.vercel.app/api?username=fluxaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Top Repo" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=fluxaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
   </a>
 </p>
 
@@ -156,7 +156,7 @@
 
 <p align="center">
   <a href="https://github.com/fluxaro">
-    <img src="https://github-profile-trophy.vercel.app/?username=fluxaro&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fluxaro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -165,7 +165,7 @@
 <div align="center">
   <a href="https://github.com/fluxaro">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=fluxaro&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=fluxaro&theme=tokyo-night&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
       alt="GitHub Activity Graph"
     />
   </a>

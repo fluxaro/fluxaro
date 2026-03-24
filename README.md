@@ -43,7 +43,7 @@
   <li>Building <strong>impactful full-stack solutions</strong></li>
   <li>Mastering <strong>modern web technologies</strong></li>
   <li><strong>Open Source</strong> development & community contributions</li>
-  <li>Solving complex problems with elegant code</li>
+  <li>Solving complex problems with elegant code pratices</li>
 </ul>
 
 <h3>🎯 Vision</h3>

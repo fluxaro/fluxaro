@@ -5,12 +5,12 @@
     <strong>I'm Loko Israel Tomisin</strong>
   </h1>
   <p>
-    🚀 Passionate Full-Stack Developer | 🌍 Open Source Enthusiast | 🎨 Creative Coder
+    🧠 Software Engineer | 🏗️ System Design | 🤖 AI Integrations
   </p>
   <p>
      <em>
 <a href="https://github.com/fluxaro">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=A+Passionate+Full-Stack+Developer+%7C+Open+Source+Enthusiast+%7C+Creative+Coder" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Software+Engineer+%7C+System+Design+%7C+AI-Powered+Products;Building+scalable+backends+%26+intelligent+systems" alt="Typing SVG" /></a>
      </em> 
   </p>
 </div>
@@ -25,31 +25,31 @@
 
 <h3>🌟 Who I am</h3>
 <p>
-  <strong>Full-Stack Developer</strong> passionate about creating 
-  <strong>scalable, innovative</strong> web applications with 
-  <strong>clean, efficient code</strong> and modern technologies.
+  <strong>Software Engineer</strong> focused on <strong>system design</strong> and 
+  <strong>AI-integrated products</strong> — I design architectures first, then build 
+  <strong>scalable, production-grade systems</strong> that hold up under real users and real load.
 </p>
 
-<h3>📚 Currently Learning</h3>
+<h3>🏗️ What I Design & Build</h3>
 <ul>
-  <li><strong>Advanced React</strong> patterns & <strong>Next.js</strong> optimizations</li>
-  <li><strong>Backend Architecture</strong> with Node.js & Django</li>
-  <li><strong>Cloud Deployment</strong> & DevOps practices</li>
-  <li><strong>Database Design</strong> & optimization techniques</li>
+  <li>End-to-end platform architecture: auth, data modeling, service boundaries, API contracts</li>
+  <li><strong>AI-integrated systems</strong> — LLM-powered chat, streaming completions, prompt pipelines, agent workflows</li>
+  <li>Scalable backends with <strong>Node.js/Express</strong> and <strong>Supabase/PostgreSQL</strong></li>
+  <li>Multi-tenant platforms serving real paying clients in production</li>
 </ul>
 
-<h3>🚀 What Drives Me</h3>
+<h3>📚 Currently Deepening</h3>
 <ul>
-  <li>Building <strong>impactful full-stack solutions</strong></li>
-  <li>Mastering <strong>modern web technologies</strong></li>
-  <li><strong>Open Source</strong> development & community contributions</li>
-  <li>Solving complex problems with elegant code pratices</li>
+  <li><strong>Distributed system design</strong> — scaling, caching, and reliability patterns</li>
+  <li><strong>AI agent architecture</strong> & tool-use / MCP-style integrations</li>
+  <li><strong>Cloud infrastructure</strong> & deployment pipelines</li>
+  <li><strong>Database design</strong> at scale — indexing, schema evolution, query performance</li>
 </ul>
 
 <h3>🎯 Vision</h3>
 <p>
-  To become an <strong>expert Full-Stack Developer</strong>, creating 
-  <strong>innovative solutions</strong> that push the boundaries of web technology.
+  To design and ship <strong>intelligent, well-architected systems</strong> — products that are 
+  as sound under the hood as they are useful on the surface.
 </p>
 
 </div>
@@ -79,26 +79,82 @@
   <h3>🎨 Languages & Core</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
-  <h3>⚛️ Frontend Development</h3>
+  <h3>⚛️ Frontend & Product</h3>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </p>
 
-  <h3>🖥️ Backend & Tools</h3>
+  <h3>🖥️ Backend, Data & Systems</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </p>
+
+  <h3>🤖 AI & Integrations</h3>
+  <p>
+    <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streaming%20Completions-34a89d?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </p>
+
+  <h3>🧰 Tools & Deployment</h3>
+  <p>
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
+
+<p align="center">
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
+</p>
+
+<h2>🏗️ What I've Shipped</h2>
+
+<div align="left">
+
+<h3>💼 Apply Bureau — Job Application Service Platform</h3>
+<p>
+  Sole technical lead: designed and built the full system architecture from scratch — public site, 
+  client dashboard, consultation booking flow, and admin panel. Backend on <strong>Node.js/Express + Supabase (PostgreSQL)</strong> 
+  handling auth, application tracking, interview scheduling, and recruiter messaging. Live in production 
+  serving paying clients across Ontario, Canada.
+</p>
+
+<h3>🏠 Klin Konnect — Property Tech Platform</h3>
+<p>
+  Designed the rental concierge platform end-to-end: verified listings, concierge intake flow, property 
+  search, and a co-renting application workflow on a <strong>React/Next.js + Node.js/Supabase</strong> stack, 
+  unified under a shared design system with sibling ventures.
+</p>
+
+<h3>🤖 Spark AI & Foxxy — AI-Integrated Products</h3>
+<p>
+  AI-powered productivity suite (chat, document analysis, email generation) and a themed real-time 
+  conversational agent with streaming responses — both built on the <strong>OpenAI API</strong> with 
+  careful attention to prompt design and response streaming architecture.
+</p>
+
+<p align="center">
+  <em>🔗 <a href="https://github.com/fluxaro?tab=repositories">See all repositories →</a></em>
+</p>
+
+</div>
 
 <p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
@@ -181,8 +237,8 @@
 <tr>
 <td align="center">
 
-$\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{The only limit to our growth is the one we set for ourselves.}}$  $\color{#BF91F3}\Large{\text{❞}}$  
-<div align="right">$\color{#70A5FD}\normalsize{\text{— Ibn Khaldun}}$</div>
+$\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{Good architecture is the difference between a system that scales and one that survives.}}$  $\color{#BF91F3}\Large{\text{❞}}$  
+<div align="right">$\color{#70A5FD}\normalsize{\text{— Unknown}}$</div>
 
 </td>
 </tr>
@@ -202,7 +258,7 @@ $\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve t
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-## 🔗 Let’s Connect  
+## 🔗 Let's Connect  
 
 <br>
 
@@ -213,7 +269,7 @@ $\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve t
   <a href="https://www.tiktok.com/@technocrat911"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://www.instagram.com/cyber_xoder/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/fluxaro"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://loko-portfilio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34a89d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://israelloko.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34a89d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -222,4 +278,4 @@ $\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve t
 
 <br>
 
-<h6 align="center">💜 Built with <strong>Loko Israel Tomisin</strong> • Collaborations, forks, and contributions are welcome.</h6>
+<h6 align="center">💜 Built by <strong>Loko Israel Tomisin</strong> • Collaborations, forks, and contributions are welcome.</h6>

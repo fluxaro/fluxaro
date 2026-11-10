@@ -3,7 +3,6 @@
 </p>
 
 <div align="center">
-  <h1><strong>Loko Israel Tomisin</strong></h1>
   <p>
     <code>System Architecture</code> • <code>Distributed Backends</code> • <code>Autonomous AI Integrations</code>
   </p>

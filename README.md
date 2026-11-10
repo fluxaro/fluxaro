@@ -176,60 +176,6 @@ system_spec:
 
 </details>
 
-<h2>📈 Contribution Activity Graph</h2>
-
-<div align="center">
-  <a href="https://github.com/fluxaro">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=fluxaro&theme=tokyo-night&bg_color=0d1117&color=e07a5f&line=38bdae&point=f4bf4f&area=true&hide_border=true" 
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</div>
-
-<h2>🟡 Pacman Contribution Feed</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fluxaro/fluxaro/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fluxaro/fluxaro/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/fluxaro/fluxaro/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
-  <br/>
-  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
-
-<h2 align="left">🧠 Operating Principles &amp; Quotes</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-$\color{#E07A5F}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{Good architecture is the difference between a system that scales and one that survives.}}$  $\color{#E07A5F}\Large{\text{❞}}$  
-<div align="right">$\color{#70A5FD}\normalsize{\text{— System Axiom}}$</div>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-  
-$\color{#E07A5F}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve the problem. Then, write the code.}}$  $\color{#E07A5F}\Large{\text{❞}}$  
-<div align="right">$\color{#70A5FD}\normalsize{\text{— John Johnson}}$</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>

@@ -4,11 +4,11 @@
 
 <div align="center">
   <p>
-    <code>System Architecture</code> • <code>Distributed Backends</code> • <code>Autonomous AI Integrations</code>
+    <code>Software Engineering</code> • <code>Cross-Platform Mobile Apps</code> • <code>System Architecture &amp; Infra</code> • <code>DSA</code>
   </p>
   <p>
     <a href="https://github.com/fluxaro">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=E07A5F&center=true&vCenter=true&width=580&lines=Software+Engineer+%7C+System+Design+%7C+AI-Powered+Products;Architecting+scalable+backends+%26+autonomous+agent+pipelines;First+solve+the+problem.+Then+write+the+code." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=E07A5F&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+System+Architect+%7C+Mobile+Developer;Core+Backends+in+Go+%26+TypeScript+%7C+Building+Scalable+Infra;Cross-Platform+Mobile+App+Development;Algorithmic+Rigor+(DSA)+%26+Autonomous+AI+Integrations" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -40,19 +40,29 @@
 <div align="left">
 
 <p>
-  I'm a <strong>Software Engineer &amp; Systems Architect</strong> building at the intersection of 
-  <strong>distributed systems</strong> and <strong>autonomous AI engineering</strong>. 
-  I operate on an <em>architecture-first, code-second</em> philosophy — designing resilient service boundaries, clean domain models, and high-throughput data contracts that hold up under real-world load.
+  I'm a <strong>Software Engineer &amp; Systems Architect</strong> building high-performance systems across the stack. 
+  My work spans <strong>cross-platform mobile app development</strong>, <strong>distributed backend infrastructure</strong>, and <strong>system design</strong> powered by rigorous <strong>Data Structures &amp; Algorithms (DSA)</strong>.
+</p>
+
+<p>
+  With <strong>Go</strong> and <strong>TypeScript</strong> at my backend core, I architect resilient, concurrent services and scalable infrastructure engineered to endure real production workloads.
 </p>
 
 ```yaml
 system_spec:
   handle: "@fluxaro"
   engineer: "Loko Israel Tomisin"
-  specialization: ["Distributed Backend Architecture", "AI Agent Tool-Use Pipelines", "Database Engineering"]
-  design_paradigm: "Domain-Driven • Fault-Tolerant • Event-Driven"
-  active_research: ["MCP (Model Context Protocol)", "Distributed Consensus & Caching", "Low-Latency LLM Streaming"]
-  core_rule: "If it can fail in production, simulate it in staging."
+  roles: 
+    - "Software Engineer"
+    - "Cross-Platform Mobile App Developer"
+    - "System Architect & Infra Builder"
+  core_stack:
+    backend: ["Go (Golang)", "Node.js / Express", "PostgreSQL", "Supabase", "Redis"]
+    mobile: ["React Native", "Expo", "Cross-Platform Architecture"]
+    systems: ["Distributed Infrastructure", "Docker", "System Design & Scalability"]
+    foundations: ["Data Structures & Algorithms (DSA)", "Concurrency Models", "API Contracts"]
+  design_paradigm: "Domain-Driven • Algorithmic Rigor • Fault-Tolerant • High-Throughput"
+  rule_0: "First master the algorithm and architecture. Then write clean, idiomatic code."
 ```
 
 </div>
@@ -65,25 +75,35 @@ system_spec:
 
 <div align="left">
 
-### ⚡ Core & Languages
+### ⚡ Core Languages & Foundations
 <p>
+  <img src="https://img.shields.io/badge/Go_(Golang)-18171C?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
   <img src="https://img.shields.io/badge/TypeScript-18171C?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-18171C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-18171C?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-18171C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PostgreSQL-18171C?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/HTML5-18171C?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-18171C?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/DSA-18171C?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Data Structures & Algorithms"/>
 </p>
 
-### 🏗️ Backend, Data & Systems Architecture
+### 📱 Mobile App & Cross-Platform Engineering
 <p>
+  <img src="https://img.shields.io/badge/React_Native-18171C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-18171C?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Cross--Platform_Architecture-18171C?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Cross-Platform"/>
+  <img src="https://img.shields.io/badge/Mobile_Performance-18171C?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Performance"/>
+  <img src="https://img.shields.io/badge/State_Management-18171C?style=for-the-badge&logo=redux&logoColor=764ABC" alt="State Management"/>
+</p>
+
+### 🏗️ Backend, Infrastructure & System Architecture
+<p>
+  <img src="https://img.shields.io/badge/Go_Backends-18171C?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go Backends"/>
   <img src="https://img.shields.io/badge/Node.js-18171C?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-18171C?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Supabase-18171C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
   <img src="https://img.shields.io/badge/MongoDB-18171C?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Django-18171C?style=for-the-badge&logo=django&logoColor=092E20" alt="Django"/>
-  <img src="https://img.shields.io/badge/Firebase-18171C?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/REST_APIs-18171C?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Docker-18171C?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/System_Design_%26_Infra-18171C?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="System Design"/>
+  <img src="https://img.shields.io/badge/REST_%26_RPC_APIs-18171C?style=for-the-badge&logo=fastapi&logoColor=009688" alt="APIs"/>
 </p>
 
 ### 🤖 AI Engineering & Autonomous Systems
@@ -95,21 +115,21 @@ system_spec:
   <img src="https://img.shields.io/badge/Prompt_Architecture-18171C?style=for-the-badge&logo=databricks&logoColor=BF91F3" alt="Prompt Engineering"/>
 </p>
 
-### ⚛️ Frontend & Interfaces
+### ⚛️ Web & Interfaces
 <p>
   <img src="https://img.shields.io/badge/React-18171C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-18171C?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React_Native-18171C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-18171C?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5_%26_CSS3-18171C?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5 & CSS3"/>
 </p>
 
-### 🧰 Infrastructure, Tools & Protocols
+### 🧰 Cloud, DevOps & Tooling
 <p>
+  <img src="https://img.shields.io/badge/Docker-18171C?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux_POSIX-18171C?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-18171C?style=for-the-badge&logo=git&logoColor=F05033" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-18171C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux_POSIX-18171C?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
   <img src="https://img.shields.io/badge/Vercel-18171C?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/VS_Code-18171C?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-18171C?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
 </p>
 

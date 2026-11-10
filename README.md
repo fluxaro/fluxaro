@@ -1,157 +1,117 @@
+<p align="center">
+  <img src="assets/images/banner.png" alt="Welcome to Loko Israel's Terminal" width="100%" />
+</p>
+
 <div align="center">
-  <h1>
-    <strong>Hey</strong>
-    <img src="assets/images/wave.gif" width="30" alt="wave"> 
-    <strong>I'm Loko Israel Tomisin</strong>
-  </h1>
+  <h1><strong>Loko Israel Tomisin</strong></h1>
   <p>
-    🧠 Software Engineer | 🏗️ System Design | 🤖 AI Integrations
+    <code>System Architecture</code> • <code>Distributed Backends</code> • <code>Autonomous AI Integrations</code>
   </p>
   <p>
-     <em>
-<a href="https://github.com/fluxaro">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Software+Engineer+%7C+System+Design+%7C+AI-Powered+Products;Building+scalable+backends+%26+intelligent+systems" alt="Typing SVG" /></a>
-     </em> 
+    <a href="https://github.com/fluxaro">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=E07A5F&center=true&vCenter=true&width=580&lines=Software+Engineer+%7C+System+Design+%7C+AI-Powered+Products;Architecting+scalable+backends+%26+autonomous+agent+pipelines;First+solve+the+problem.+Then+write+the+code." alt="Typing SVG" />
+    </a>
   </p>
 </div>
 
 <p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
-
-<h2>🙋 About Me</h2>
-
-<div align="left">
-
-<h3>🌟 Who I am</h3>
-<p>
-  <strong>Software Engineer</strong> focused on <strong>system design</strong> and 
-  <strong>AI-integrated products</strong> — I design architectures first, then build 
-  <strong>scalable, production-grade systems</strong> that hold up under real users and real load.
-</p>
-
-<h3>🏗️ What I Design & Build</h3>
-<ul>
-  <li>End-to-end platform architecture: auth, data modeling, service boundaries, API contracts</li>
-  <li><strong>AI-integrated systems</strong> — LLM-powered chat, streaming completions, prompt pipelines, agent workflows</li>
-  <li>Scalable backends with <strong>Node.js/Express</strong> and <strong>Supabase/PostgreSQL</strong></li>
-  <li>Multi-tenant platforms serving real paying clients in production</li>
-</ul>
-
-<h3>📚 Currently Deepening</h3>
-<ul>
-  <li><strong>Distributed system design</strong> — scaling, caching, and reliability patterns</li>
-  <li><strong>AI agent architecture</strong> & tool-use / MCP-style integrations</li>
-  <li><strong>Cloud infrastructure</strong> & deployment pipelines</li>
-  <li><strong>Database design</strong> at scale — indexing, schema evolution, query performance</li>
-</ul>
-
-<h3>🎯 Vision</h3>
-<p>
-  To design and ship <strong>intelligent, well-architected systems</strong> — products that are 
-  as sound under the hood as they are useful on the surface.
-</p>
-
-</div>
-
-<br>
 
 <p align="center">  
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=fluxaro&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>    
+  <img src="https://komarev.com/ghpvc/?username=fluxaro&label=Terminal%20Views&color=e07a5f&style=flat" alt="Profile Views"/>    
   
   <!-- GitHub Followers Badge -->
-  <img src="https://img.shields.io/github/followers/fluxaro?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=githubsponsors&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/fluxaro?label=Followers&style=flat&color=38bdae&labelColor=18171c&logo=github&logoColor=white" alt="Followers"/>
   
   <!-- GitHub Stars Badge -->
-  <img src="https://img.shields.io/github/stars/fluxaro?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>    
+  <img src="https://img.shields.io/github/stars/fluxaro?label=Stars&style=flat&color=f4bf4f&labelColor=18171c&logo=apache-spark&logoColor=white" alt="Stars"/>    
   
   <!-- Public Repositories Counter -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fluxaro&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fluxaro&query=$.public_repos&label=Repositories&style=flat&color=70a5fd&labelColor=18171c&logo=git&logoColor=white" alt="Public Repos"/>
 </p>
 
 <p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-  <h2>🛠️ Tech Stack</h2>
-    
-  <h3>🎨 Languages & Core</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-
-  <h3>⚛️ Frontend & Product</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  </p>
-
-  <h3>🖥️ Backend, Data & Systems</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  </p>
-
-  <h3>🤖 AI & Integrations</h3>
-  <p>
-    <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streaming%20Completions-34a89d?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </p>
-
-  <h3>🧰 Tools & Deployment</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </p>
-
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
-
-<h2>🏗️ What I've Shipped</h2>
+## 🛸 About Me
 
 <div align="left">
 
-<h3>💼 Apply Bureau — Job Application Service Platform</h3>
 <p>
-  Sole technical lead: designed and built the full system architecture from scratch — public site, 
-  client dashboard, consultation booking flow, and admin panel. Backend on <strong>Node.js/Express + Supabase (PostgreSQL)</strong> 
-  handling auth, application tracking, interview scheduling, and recruiter messaging. Live in production 
-  serving paying clients across Ontario, Canada.
+  I'm a <strong>Software Engineer &amp; Systems Architect</strong> building at the intersection of 
+  <strong>distributed systems</strong> and <strong>autonomous AI engineering</strong>. 
+  I operate on an <em>architecture-first, code-second</em> philosophy — designing resilient service boundaries, clean domain models, and high-throughput data contracts that hold up under real-world load.
 </p>
 
-<h3>🏠 Klin Konnect — Property Tech Platform</h3>
-<p>
-  Designed the rental concierge platform end-to-end: verified listings, concierge intake flow, property 
-  search, and a co-renting application workflow on a <strong>React/Next.js + Node.js/Supabase</strong> stack, 
-  unified under a shared design system with sibling ventures.
-</p>
+```yaml
+system_spec:
+  handle: "@fluxaro"
+  engineer: "Loko Israel Tomisin"
+  specialization: ["Distributed Backend Architecture", "AI Agent Tool-Use Pipelines", "Database Engineering"]
+  design_paradigm: "Domain-Driven • Fault-Tolerant • Event-Driven"
+  active_research: ["MCP (Model Context Protocol)", "Distributed Consensus & Caching", "Low-Latency LLM Streaming"]
+  core_rule: "If it can fail in production, simulate it in staging."
+```
 
-<h3>🤖 Spark AI & Foxxy — AI-Integrated Products</h3>
-<p>
-  AI-powered productivity suite (chat, document analysis, email generation) and a themed real-time 
-  conversational agent with streaming responses — both built on the <strong>OpenAI API</strong> with 
-  careful attention to prompt design and response streaming architecture.
-</p>
+</div>
 
 <p align="center">
-  <em>🔗 <a href="https://github.com/fluxaro?tab=repositories">See all repositories →</a></em>
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
+</p>
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="left">
+
+### ⚡ Core & Languages
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-18171C?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-18171C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-18171C?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-18171C?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/HTML5-18171C?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-18171C?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+</p>
+
+### 🏗️ Backend, Data & Systems Architecture
+<p>
+  <img src="https://img.shields.io/badge/Node.js-18171C?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-18171C?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Supabase-18171C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/MongoDB-18171C?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Django-18171C?style=for-the-badge&logo=django&logoColor=092E20" alt="Django"/>
+  <img src="https://img.shields.io/badge/Firebase-18171C?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/REST_APIs-18171C?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs"/>
+</p>
+
+### 🤖 AI Engineering & Autonomous Systems
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-18171C?style=for-the-badge&logo=anthropic&logoColor=E07A5F" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-18171C?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/AI_Agents_%26_MCP-18171C?style=for-the-badge&logo=robot-framework&logoColor=38BDAE" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Streaming_Pipelines-18171C?style=for-the-badge&logo=apache-kafka&logoColor=E07A5F" alt="Streaming"/>
+  <img src="https://img.shields.io/badge/Prompt_Architecture-18171C?style=for-the-badge&logo=databricks&logoColor=BF91F3" alt="Prompt Engineering"/>
+</p>
+
+### ⚛️ Frontend & Interfaces
+<p>
+  <img src="https://img.shields.io/badge/React-18171C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-18171C?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React_Native-18171C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18171C?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+</p>
+
+### 🧰 Infrastructure, Tools & Protocols
+<p>
+  <img src="https://img.shields.io/badge/Git-18171C?style=for-the-badge&logo=git&logoColor=F05033" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-18171C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux_POSIX-18171C?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Vercel-18171C?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/VS_Code-18171C?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-18171C?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
 </p>
 
 </div>
@@ -161,7 +121,7 @@
 </p>
 
 <details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+  <summary><h2>📊 Telemetry &amp; GitHub Stats</h2></summary>
 
   <br>
   
@@ -169,11 +129,11 @@
 
   <!-- Row 1: Main Stats + Alternate Stats -->
   <a href="https://github.com/fluxaro" target="_blank" style="margin-right:16px;">
-    <img src="https://gh-readme-profile.vercel.app/api?username=fluxaro&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Loko's GitHub stats" height="142px"/>
+    <img src="https://gh-readme-profile.vercel.app/api?username=fluxaro&theme=tokyonight&bg_color=0d1117&title_color=e07a5f&text_color=70a5fd&icon_color=38bdae&username_color=e07a5f" alt="Loko's GitHub stats" height="142px"/>
   </a>
 
   <a href="https://github.com/fluxaro" target="_blank">
-    <img alt="Loko's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=fluxaro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+    <img alt="Loko's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=fluxaro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=e07a5f&icon_color=38bdae&text_color=70a5fd" height="142px"/>
   </a>
 
 </p>
@@ -182,13 +142,13 @@
 
   <!-- Row 2: Streak Stats + Top Languages -->
   <a href="https://github.com/fluxaro" target="_blank" style="margin-right:16px;">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Loko's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=fluxaro&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+      <img title="🔥 Streak stats for @fluxaro" alt="Loko's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=fluxaro&theme=tokyonight&background=0d1117&stroke=e07a5f&ring=38bdae&fire=e07a5f&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
   </a>
 
   <a href="https://github.com/fluxaro" target="_blank">
     <img 
       alt="Loko's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fluxaro&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fluxaro&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=e07a5f&icon_color=38bdae&text_color=70a5fd" 
       height="162px"
     />
   </a>
@@ -197,21 +157,18 @@
 
 </details>
 
-
-
-
-<h2>📈 GitHub Activity Graph</h2>
+<h2>📈 Contribution Activity Graph</h2>
 
 <div align="center">
   <a href="https://github.com/fluxaro">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=fluxaro&theme=tokyo-night&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=fluxaro&theme=tokyo-night&bg_color=0d1117&color=e07a5f&line=38bdae&point=f4bf4f&area=true&hide_border=true" 
       alt="GitHub Activity Graph"
     />
   </a>
 </div>
 
-<h2>🟡 Pacman Contribution Graph</h2>
+<h2>🟡 Pacman Contribution Feed</h2>
 
 <div align="center">
   <picture>
@@ -229,7 +186,7 @@
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-<h2 align="left">🧠 Quotes to Live By</h2>
+<h2 align="left">🧠 Operating Principles &amp; Quotes</h2>
 
 <div align="center">
 
@@ -237,15 +194,15 @@
 <tr>
 <td align="center">
 
-$\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{Good architecture is the difference between a system that scales and one that survives.}}$  $\color{#BF91F3}\Large{\text{❞}}$  
-<div align="right">$\color{#70A5FD}\normalsize{\text{— Unknown}}$</div>
+$\color{#E07A5F}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{Good architecture is the difference between a system that scales and one that survives.}}$  $\color{#E07A5F}\Large{\text{❞}}$  
+<div align="right">$\color{#70A5FD}\normalsize{\text{— System Axiom}}$</div>
 
 </td>
 </tr>
 <tr>
 <td align="center">
   
-$\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve the problem. Then, write the code.}}$  $\color{#BF91F3}\Large{\text{❞}}$  
+$\color{#E07A5F}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve the problem. Then, write the code.}}$  $\color{#E07A5F}\Large{\text{❞}}$  
 <div align="right">$\color{#70A5FD}\normalsize{\text{— John Johnson}}$</div>
 
 </td>
@@ -258,18 +215,16 @@ $\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve t
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-## 🔗 Let's Connect  
-
-<br>
+## 🔗 Connect &amp; Establish Uplink
 
 <p align="center">
-  <a href="mailto:israelloko65@gmail.com"><img src="https://img.shields.io/badge/Gmail-bf91f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/loko-israel-tomisin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/israelloko65"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.tiktok.com/@technocrat911"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="https://www.instagram.com/cyber_xoder/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/fluxaro"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://israelloko.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34a89d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:israelloko65@gmail.com"><img src="https://img.shields.io/badge/Gmail-18171C?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/loko-israel-tomisin"><img src="https://img.shields.io/badge/LinkedIn-18171C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://x.com/israelloko65"><img src="https://img.shields.io/badge/X-18171C?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/fluxaro"><img src="https://img.shields.io/badge/GitHub-18171C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://israelloko.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18171C?style=for-the-badge&logo=googlechrome&logoColor=38BDAE" alt="Portfolio"/></a>
+  <a href="https://www.instagram.com/cyber_xoder/"><img src="https://img.shields.io/badge/Instagram-18171C?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://www.tiktok.com/@technocrat911"><img src="https://img.shields.io/badge/TikTok-18171C?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
 
 <p align="center">
@@ -278,4 +233,4 @@ $\color{#BF91F3}\Large{\text{❝}}$  $\color{#38BDAE}\large{\text{First, solve t
 
 <br>
 
-<h6 align="center">💜 Built by <strong>Loko Israel Tomisin</strong> • Collaborations, forks, and contributions are welcome.</h6>
+<h6 align="center">⚡ Engineered by <strong>Loko Israel Tomisin</strong> (<code>@fluxaro</code>) • Architected for scale and survival.</h6>
